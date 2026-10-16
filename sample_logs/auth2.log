@@ -1,0 +1,25 @@
+2026-10-14 09:00:01 SUCCESS user=alice ip=1.1.1.1
+2026-10-14 10:00:00 FAILED user=root ip=8.8.8.8
+2026-10-14 10:00:02 FAILED user=root ip=8.8.8.8
+2026-10-14 10:00:04 FAILED user=root ip=8.8.8.8
+2026-10-14 10:00:06 FAILED user=root ip=8.8.8.8
+2026-10-14 10:00:08 FAILED user=root ip=8.8.8.8
+2026-10-14 10:00:10 FAILED user=root ip=8.8.8.8
+2026-10-14 10:00:12 FAILED user=root ip=8.8.8.8
+2026-10-14 10:00:14 SUCCESS user=root ip=8.8.8.8
+2026-10-14 10:15:00 FAILED user=admin ip=77.88.8.8
+2026-10-14 10:15:02 FAILED user=admin ip=77.88.8.8
+2026-10-14 10:15:04 FAILED user=admin ip=77.88.8.8
+2026-10-14 10:15:06 FAILED user=admin ip=77.88.8.8
+2026-10-14 10:15:08 SUCCESS user=admin ip=77.88.8.8
+2026-10-14 11:00:00 FAILED user=dbuser ip=114.114.114.114
+2026-10-14 11:00:02 FAILED user=dbuser ip=9.9.9.9
+2026-10-14 11:00:04 FAILED user=dbuser ip=208.67.222.222
+2026-10-14 11:00:06 FAILED user=dbuser ip=114.114.114.114
+2026-10-14 11:00:08 FAILED user=dbuser ip=9.9.9.9
+2026-10-14 11:00:10 SUCCESS user=dbuser ip=156.154.70.1
+2026-10-14 12:00:00 FAILED user=bob ip=1.1.1.1
+2026-10-14 12:00:02 SUCCESS user=bob ip=1.1.1.1
+
+Это мусорная строка
+2026-13-99 99:99:99 FAILED user=broken ip=not.an.ip
